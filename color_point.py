@@ -22,6 +22,7 @@ if __name__ == '__main__': # to make sure that this code does not run when impor
             random.randint(-100, 100),
             random.choice(colors))
         color_points.append(p)
+
     print("random color points:")
     print(color_points)
     color_points.sort()

@@ -1,7 +1,6 @@
 import random
 from ftplib import parse227
 
-
 class Point:
     """
     Class modeling a real life 2D point
